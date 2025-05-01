@@ -28,8 +28,8 @@ npm install -D @tailwindcss/forms @types/node @types/react @types/react-dom @typ
 Crie um arquivo `.env` na raiz do projeto com o seguinte conteúdo:
 
 ```env
-VITE_SUPABASE_URL=https://sua-url-do-supabase.supabase.co
-VITE_SUPABASE_ANON_KEY=sua-chave-anonima-do-supabase
+VITE_SUPABASE_URL=https://wkknivnwnvqxpdfgkpye.supabase.co
+VITE_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Indra25pdm53bnZxeHBkZmdrcHllIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDQ3NDI5NzYsImV4cCI6MjA2MDMxODk3Nn0.Pgi6n0lNXVQJNLuFPPKz-Q3l_P9vPd6P5rh5jAWk5V0
 ```
 
 Substitua pelos valores reais do seu projeto Supabase.
